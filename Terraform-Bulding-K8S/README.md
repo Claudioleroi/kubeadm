@@ -50,7 +50,7 @@ To solve this problem I use <b>s3 bucket</b>. First I extract the join command a
 ## Running the Script
 After doing the requirements, you are ready now, start clone the repo to your machine:
 ``` shell
-git clone https://github.com/Ahmad-Faqehi/Terraform-Bulding-K8S.git
+git clone (https://github.com/Claudioleroi/kubeadm.git)
 cd Terraform-Bulding-K8S/
 ```
 Now execute terraform commands:
@@ -87,7 +87,8 @@ terraform destroy
 
 Ahmad Faqehi - [iAhmad.info](https://iAhmad.info) - alfaqehi775@hotmail.com
 
-Project Link: [https://github.com/Ahmad-Faqehi/Terraform-Bulding-K8S](https://github.com/Ahmad-Faqehi/Terraform-Bulding-K8S)
+Project Link: [https://github.com/Claudioleroi/kubeadm/edit/main/Terraform-Bulding-K8S)
+](https://github.com/Claudioleroi/kubeadm/edit/main/Terraform-Bulding-K8S)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
