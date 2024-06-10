@@ -85,7 +85,7 @@ terraform destroy
 <!-- CONTACT -->
 ## Contact Me
 
-Ahmad Faqehi - [iAhmad.info](https://iAhmad.info) - alfaqehi775@hotmail.com
+claude ikamba - [claude.info](https://iAhmad.info) - ikambacheryl7@gmail.com
 
 Project Link: [https://github.com/Claudioleroi/kubeadm/edit/main/Terraform-Bulding-K8S)
 ](https://github.com/Claudioleroi/kubeadm/edit/main/Terraform-Bulding-K8S)
@@ -93,9 +93,4 @@ Project Link: [https://github.com/Claudioleroi/kubeadm/edit/main/Terraform-Buldi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ahmad-faqehi
-[twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
-[twittwe-url]: https://twitter.com/A_F775
-[github-shield]: https://img.shields.io/badge/-github-black.svg?style=for-the-badge&logo=github&colorB=555
-[github-url]: https://github.com/Ahmad-Faqehi
+ithub-url]: https://github.com/Claudioleroi
